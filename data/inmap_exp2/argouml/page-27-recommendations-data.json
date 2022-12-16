@@ -1,0 +1,28 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"ocl",
+			1.50,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.application.api.InitSubsystem",
+			0,
+			0,
+			"gui",
+			1.00,
+			"module-Loader",
+			-,
+			"false",
+			"false"
+		]
+	]
+}

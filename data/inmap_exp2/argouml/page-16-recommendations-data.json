@@ -1,0 +1,28 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"module-Loader",
+			5.09,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.cognitive.ui.AbstractGoList",
+			0,
+			0,
+			"module-Loader",
+			4.99,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		]
+	]
+}

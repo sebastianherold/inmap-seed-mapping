@@ -1,0 +1,15 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.processmining.models.jgraph.DirectedGraphElementForMultiEdge",
+			0,
+			0,
+			"saxon",
+			0.05,
+			"widget",
+			"false",
+			"false"
+		]
+	]
+}

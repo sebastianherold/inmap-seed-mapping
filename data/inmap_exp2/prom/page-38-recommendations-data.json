@@ -1,0 +1,16 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.processmining.framework.util.ui.scalableview.VerticalLabelUI",
+			0,
+			0,
+			"context",
+			0.45,
+			"widget",
+			-,
+			"false",
+			"false"
+		]
+	]
+}

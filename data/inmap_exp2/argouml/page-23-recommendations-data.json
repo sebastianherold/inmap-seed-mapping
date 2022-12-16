@@ -1,0 +1,28 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"persist",
+			1.50,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.cognitive.ui.AbstractGoList",
+			0,
+			0,
+			"persist",
+			1.50,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		]
+	]
+}

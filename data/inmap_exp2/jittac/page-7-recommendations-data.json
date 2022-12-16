@@ -1,0 +1,28 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"se.kau.cs.jittac.eclipse.JittacJavaNature",
+			0,
+			0,
+			"eclipse-code-support",
+			600.00,
+			"eclipse-main",
+			600.00,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"se.kau.cs.jittac.eclipse.util.DummyProgressMonitor",
+			0,
+			0,
+			"eclipse-code-support",
+			600.00,
+			"eclipse-main",
+			600.00,
+			"false",
+			"false"
+		]
+	]
+}

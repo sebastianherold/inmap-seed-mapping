@@ -1,0 +1,37 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.uml.reveng.java.ClassifierNotFoundException",
+			0,
+			0,
+			"code-Generat",
+			0.16,
+			"reverseEngineer",
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.i18n.Translator",
+			0,
+			0,
+			"persist",
+			0.16,
+			"internationalizat",
+			"false",
+			"false"
+		],
+		[
+			3,
+			"org.argouml.uml.reveng.java.ParameterDeclaration",
+			0,
+			0,
+			"explor",
+			0.13,
+			"reverseEngineer",
+			"false",
+			"false"
+		]
+	]
+}

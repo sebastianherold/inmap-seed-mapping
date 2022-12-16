@@ -1,0 +1,40 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.processmining.models.jgraph.DirectedGraphElementForMultiEdge",
+			0,
+			0,
+			"apache-util",
+			0.67,
+			"widget",
+			0.67,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.processmining.framework.util.ui.scalableview.ScalableComponent",
+			0,
+			0,
+			"graphviz",
+			0.67,
+			"widget",
+			0.67,
+			"false",
+			"false"
+		],
+		[
+			3,
+			"org.processmining.filtering.xfilter.implementations.XAttributableContainsKeyWithValueXFilterImpl",
+			0,
+			0,
+			"apache-util",
+			0.67,
+			"log",
+			0.67,
+			"false",
+			"false"
+		]
+	]
+}

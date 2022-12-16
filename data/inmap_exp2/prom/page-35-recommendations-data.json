@@ -1,0 +1,28 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.processmining.models.jgraph.DirectedGraphElementForMultiEdge",
+			0,
+			0,
+			"plugin",
+			0.67,
+			"widget",
+			0.67,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.processmining.framework.util.ui.scalableview.DashedBorder",
+			0,
+			0,
+			"context",
+			0.50,
+			"widget",
+			-,
+			"false",
+			"false"
+		]
+	]
+}

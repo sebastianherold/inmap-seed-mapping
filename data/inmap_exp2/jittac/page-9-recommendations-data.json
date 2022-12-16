@@ -1,0 +1,40 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"se.kau.cs.jittac.model.im.events.IImplementationChangeListener",
+			0,
+			0,
+			"impl-model",
+			467.62,
+			"impl-model",
+			467.62,
+			"true",
+			"false"
+		],
+		[
+			2,
+			"se.kau.cs.jittac.model.mapping.AbstractMappableElement",
+			0,
+			0,
+			"resource-mapp",
+			434.89,
+			"resource-mapp",
+			434.89,
+			"true",
+			"true"
+		],
+		[
+			3,
+			"se.kau.cs.jittac.model.mapping.IJittacResource",
+			0,
+			0,
+			"resource-mapp",
+			428.68,
+			"resource-mapp",
+			428.68,
+			"true",
+			"true"
+		]
+	]
+}

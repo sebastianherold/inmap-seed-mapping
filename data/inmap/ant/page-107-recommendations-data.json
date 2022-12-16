@@ -1,0 +1,37 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.apache.tools.ant.UnsupportedAttributeException",
+			0,
+			0,
+			"email",
+			0.03,
+			"logic",
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.apache.tools.ant.Location",
+			0,
+			0,
+			"email",
+			0.02,
+			"logic",
+			"false",
+			"false"
+		],
+		[
+			3,
+			"org.apache.tools.ant.DemuxInputStream",
+			0,
+			0,
+			"logic",
+			0.02,
+			"logic",
+			"true",
+			"true"
+		]
+	]
+}

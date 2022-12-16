@@ -1,0 +1,40 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.uml.reveng.java.ArgoToken",
+			0,
+			0,
+			"code-Generat",
+			1.50,
+			"reverseEngineer",
+			1.50,
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"code-Generat",
+			1.50,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		],
+		[
+			3,
+			"org.argouml.cognitive.ui.AbstractGoList",
+			0,
+			0,
+			"code-Generat",
+			1.50,
+			"critic",
+			1.50,
+			"false",
+			"false"
+		]
+	]
+}

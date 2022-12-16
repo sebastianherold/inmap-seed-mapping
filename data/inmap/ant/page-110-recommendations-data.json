@@ -1,0 +1,15 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.apache.tools.ant.UnsupportedAttributeException",
+			0,
+			0,
+			"type",
+			0.01,
+			"logic",
+			"false",
+			"false"
+		]
+	]
+}

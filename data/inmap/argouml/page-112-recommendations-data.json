@@ -1,0 +1,26 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"swing-Extens",
+			0.08,
+			"critic",
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.cognitive.ui.AbstractGoList",
+			0,
+			0,
+			"critic",
+			0.08,
+			"critic",
+			"true",
+			"false"
+		]
+	]
+}

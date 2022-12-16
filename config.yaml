@@ -1,0 +1,130 @@
+file locations:
+    ant:
+        system folder: 'data/architectures/ant'
+        raw data: 'data/processing/ant/rawdata.csv'
+        tmp data: 'data/processing/ant/tmp'
+        single setting preprocessing: 'data/processing/ant/single_prep.csv'
+        preprocess comparisons: 'data/processing/ant/prep_comparisons.csv'
+        data size percentage: 'data/processing/ant/size_percentage.csv'
+        data size abs num: 'data/processing/ant/size_abs.csv'
+        data inmap relative seed: 'data/processing/ant/inmap_relative.csv'
+        data inmap module seed: 'data/processing/ant/inmap_module.csv'
+        
+    argouml:
+        system folder: 'data/architectures/argouml'
+        raw data: 'data/processing/argouml/rawdata.csv'
+        tmp data: 'data/processing/argouml/tmp'
+        single setting preprocessing: 'data/processing/argouml/single_prep.csv'
+        preprocess comparisons: 'data/processing/argouml/prep_comparisons.csv'
+        data size percentage: 'data/processing/argouml/size_percentage.csv'
+        data size abs num: 'data/processing/argouml/size_abs.csv'
+        data inmap relative seed: 'data/processing/argouml/inmap_relative.csv'
+        data inmap module seed: 'data/processing/argouml/inmap_module.csv'
+
+    jabref:
+        system folder: 'data/architectures/jabref'
+        raw data: 'data/processing/jabref/rawdata.csv'
+        tmp data: 'data/processing/jabref/tmp'
+        single setting preprocessing: 'data/processing/jabref/single_prep.csv'
+        preprocess comparisons: 'data/processing/jabref/prep_comparisons.csv'
+        data size percentage: 'data/processing/jabref/size_percentage.csv'
+        data size abs num: 'data/processing/jabref/size_abs.csv'
+        data inmap relative seed: 'data/processing/jabref/inmap_relative.csv'
+        data inmap module seed: 'data/processing/jabref/inmap_module.csv'
+
+    jittac:
+        system folder: 'data/architectures/jittac'
+        raw data: 'data/processing/jittac/rawdata.csv'
+        tmp data: 'data/processing/jittac/tmp'
+        single setting preprocessing: 'data/processing/jittac/single_prep.csv'
+        preprocess comparisons: 'data/processing/jittac/prep_comparisons.csv'
+        data size percentage: 'data/processing/jittac/size_percentage.csv'
+        data size abs num: 'data/processing/jittac/size_abs.csv'
+        data inmap relative seed: 'data/processing/jittac/inmap_relative.csv'
+        data inmap module seed: 'data/processing/jittac/inmap_module.csv'
+        
+    prom:
+        system folder: 'data/architectures/prom'
+        raw data: 'data/processing/prom/rawdata.csv'
+        tmp data: 'data/processing/prom/tmp'
+        single setting preprocessing: 'data/processing/prom/single_prep.csv'
+        preprocess comparisons: 'data/processing/prom/prep_comparisons.csv'
+        data size percentage: 'data/processing/prom/size_percentage.csv'
+        data size abs num: 'data/processing/prom/size_abs.csv'
+        data inmap relative seed: 'data/processing/prom/inmap_relative.csv'
+        data inmap module seed: 'data/processing/prom/inmap_module.csv'
+        
+    teammates:
+        system folder: 'data/architectures/teammates'
+        raw data: 'data/processing/teammates/rawdata.csv'
+        tmp data: 'data/processing/teammates/tmp'
+        single setting preprocessing: 'data/processing/teammates/single_prep.csv'
+        preprocess comparisons: 'data/processing/teammates/prep_comparisons.csv'
+        data size percentage: 'data/processing/teammates/size_percentage.csv'
+        data size abs num: 'data/processing/teammates/size_abs.csv'
+        data inmap relative seed: 'data/processing/teammates/inmap_relative.csv'
+        data inmap module seed: 'data/processing/teammates/inmap_module.csv'
+        
+preprocess settings list:
+    0:
+        [
+            ['lib', 'tow', 'jk', 'scw','lc', 'stem'],
+            ['pac', 'tow', 'jk']
+        ]
+    1:
+        [
+            ['lib', 'tow', 'jk', 'scw','lc', 'stem'],
+            ['pac',  'tow', 'jk'],
+            ['com', 'tow', 'jk', 'lc', 'sw', 'stem']
+        ]
+    2: 
+        [
+            ['lib', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+            ['pac', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+            ['pm', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+            ['pv', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+            ['com', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+            ['c', 'tow', 'jk', 'scw','lc', 'sw', 'stem']
+        ]
+
+    3: 
+        [
+            ['pac', 'tow', 'jk'],
+            ['lib', 'tow', 'scw', 'jk', 'lc', 'stem'],
+            ['pm', 'tow', 'scw', 'jk', 'lc', 'sw']
+        ]
+#    4: 
+#        [ 
+#            ['lib', 'tow', 'scw', 'jk', 'lc', 'stem'],
+#            ['pac', 'tow', 'jk',],
+#            ['c', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['pm', 'tow', 'scw', 'jk', 'lc', 'sw', 'stem'],
+#            ['pv', 'tow', 'jk', 'scw','lc', 'sw', 'stem']
+#        ]
+#    5: 
+#        [
+#            ['lib', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['pac', 'tow', 'jk'],
+#            ['pm', 'tow', 'jk', 'scw','lc', 'sw'],
+#            ['pv', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['com', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['c', 'tow', 'jk', 'scw','lc', 'sw', 'stem']
+#        ]
+#    6: 
+#        [
+#            ['lib', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['pac', 'tow', 'jk'],
+#            ['pm', 'tow', 'jk', 'scw','lc', 'sw'],
+#            ['pv', 'tow', 'jk', 'scw','lc', 'sw'],
+#            ['com', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['c', 'tow', 'jk', 'scw','lc', 'sw']
+#        ]
+#    7: 
+#        [
+#            ['lib', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['pac', 'tow', 'jk'],
+#            ['pm', 'tow', 'jk', 'scw','lc' ],
+#            ['pv', 'tow', 'jk', 'scw','lc' ],
+#            ['com', 'tow', 'jk', 'scw','lc', 'sw', 'stem'],
+#            ['c', 'tow', 'jk', 'scw','lc']
+#        ]

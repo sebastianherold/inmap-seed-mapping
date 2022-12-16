@@ -1,0 +1,37 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"se.kau.cs.jittac.eclipse.JittacJavaNature",
+			0,
+			0,
+			"eclipse-code-support",
+			24.00,
+			"eclipse-main",
+			"false",
+			"false"
+		],
+		[
+			2,
+			"se.kau.cs.jittac.eclipse.util.DummyProgressMonitor",
+			0,
+			0,
+			"eclipse-code-support",
+			24.00,
+			"eclipse-main",
+			"false",
+			"false"
+		],
+		[
+			3,
+			"se.kau.cs.jittac.model.im.IImplementationModel",
+			0,
+			0,
+			"impl-model",
+			19.37,
+			"impl-model",
+			"true",
+			"false"
+		]
+	]
+}

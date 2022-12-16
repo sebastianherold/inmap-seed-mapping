@@ -1,0 +1,40 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"teammates.common.datatransfer.SectionDetailsBundle",
+			0,
+			0,
+			"common-data-Transf",
+			3309.28,
+			"common-data-Transf",
+			3309.28,
+			"true",
+			"false"
+		],
+		[
+			2,
+			"teammates.ui.controller.InstructorCourseInstructorAbstractAction",
+			0,
+			0,
+			"ui-controll",
+			3212.94,
+			"ui-controll",
+			3212.94,
+			"true",
+			"false"
+		],
+		[
+			3,
+			"teammates.common.util.TimeHelper",
+			0,
+			0,
+			"common-util",
+			3212.26,
+			"common-util",
+			3212.26,
+			"true",
+			"false"
+		]
+	]
+}

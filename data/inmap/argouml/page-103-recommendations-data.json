@@ -1,0 +1,37 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"org.argouml.cognitive.ListSet",
+			0,
+			0,
+			"module-Loader",
+			0.27,
+			"critic",
+			"false",
+			"false"
+		],
+		[
+			2,
+			"org.argouml.cognitive.ui.AbstractGoList",
+			0,
+			0,
+			"module-Loader",
+			0.26,
+			"critic",
+			"false",
+			"false"
+		],
+		[
+			3,
+			"org.argouml.cognitive.ToDoListListener",
+			0,
+			0,
+			"critic",
+			0.18,
+			"critic",
+			"true",
+			"false"
+		]
+	]
+}

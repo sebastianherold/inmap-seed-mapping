@@ -1,0 +1,26 @@
+{ 
+	"data": [ 
+		[
+			1,
+			"teammates.ui.controller.InstructorCourseInstructorAbstractAction",
+			0,
+			0,
+			"ui-controll",
+			73.94,
+			"ui-controll",
+			"true",
+			"false"
+		],
+		[
+			2,
+			"teammates.common.util.TimeHelper",
+			0,
+			0,
+			"common-util",
+			73.84,
+			"common-util",
+			"true",
+			"false"
+		]
+	]
+}
